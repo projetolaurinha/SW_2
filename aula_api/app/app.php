@@ -1,4 +1,5 @@
 <?php
 
-// aplicação
+// APLICAÇÃO
+
 ?>
